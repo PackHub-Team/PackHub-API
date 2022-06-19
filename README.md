@@ -28,3 +28,14 @@
 - Get raw pack data for your own needs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Valid Requests
+
+- `../search/<query>` Returns search results from provided search query [[read more]]()
+- `../pack/<id>` Returns pack data for a pack by a provided ID [[read more]]()
+- `../packs/<recent|popular|exclusive>`
+- `../versions`
+- `../tags`
+- `../status` Returns service statuses [[read more]]()
+
+<p align="right">(<a href="#top">back to top</a>)</p>
