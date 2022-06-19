@@ -11,7 +11,7 @@
     The PackHub API and how to use it.
     <br />
     <br />
-    <a href="https://github.com/PackHub-Team/PackHub-API/docs">Documentation</a>
+    <a href="https://github.com/PackHub-Team/PackHub-API/tree/main/docs">Documentation</a>
     ·
     <a href="https://packhub.net">Website</a>
   </p>
