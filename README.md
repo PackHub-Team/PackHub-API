@@ -5,37 +5,26 @@
     <img src="packhub_api.png" alt="Logo" width="512">
   </a>
 
-<h3 align="center">Pack Browser</h3>
+<h3 align="center">PackHub API</h3>
 
   <p align="center">
     The PackHub API and how to use it.
     <br />
     <br />
-    <a href="https://github.com/Matt-MX/AnnouncerVelocity/releases"><strong>Download »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Matt-MX/AnnouncerVelocity/issues">Report Bug</a>
+    <a href="https://github.com/PackHub-Team/PackHub-API/docs">Documentation</a>
     ·
-    <a href="https://github.com/Matt-MX/AnnouncerVelocity/issues">Request Feature</a>
+    <a href="https://packhub.net">Website</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## Features
 
-- Manage your texture packs easily. We remove the faff for you.
-- Install packs directly to your game via an in-game pack browser (thanks to PackHub's API).
-- Utilities to make managing your packs easier.
-
-## To Do
-
-- [x] Let users browse packs in game ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
-- [ ] Let users install packs to the game directly ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/10)
-- [ ] Pack Manager ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
-  - [ ] Option: Automatically deselect outdated packs
-  - [ ] Option: Version converter
-  - [ ] Drag and Drop GUI
-  - [ ] Smart folder manager
-  - [ ] Ability to search packs by tags (If they are PackHub registered packs)
+- Search for packs by tags, or name.
+- Look at what packs people have purchased
+- Download packs directly (Applicable to free packs only)
+- Search for pack creators.
+- Get exclusive packs.
+- Get raw pack data for your own needs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
